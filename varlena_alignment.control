@@ -1,0 +1,5 @@
+comment = 'varlena_alignment:  Created by pgrx'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/varlena_alignment'
+relocatable = false
+superuser = true
